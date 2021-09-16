@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  💬 Gifted Chat
+  💬 Gifted Chat (patched for 0.65.1)
 </h3>
 <p align="center">
   The most complete chat UI for React Native & Web
